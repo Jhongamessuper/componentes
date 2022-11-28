@@ -1,0 +1,27 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: Jost;
+}
+
+.li1{
+    display: 0;
+    padding: 10px 20px 10px 20px;
+}
+
+  .container {
+    position: relative;
+  }
+
+  #image {
+    position: flex;
+    border-style: ridge;
+  }
+  
+  #texto {
+    position: absolute;
+    color: rgb(0, 0, 0);
+    font-size: 32px;
+    left: 250px;
+    top: 40px;
+  }
