@@ -3,29 +3,30 @@ body{
     padding:0;
 }
 
-span{
-    display: block;
+.di2 span{
+    display: flex;
     justify-content: center;
     align-items: center;
     padding-top: 130px;
     padding-bottom: 130px;
-    padding-left: 750px;
+    padding-left: 50px;
     background-color: white;
     color: black;
   }
   
-  .li{
+  .li3{
     font-family: jost;
-    padding-left: 133px;
+    padding-left: 800px;
     font-size: 48px;
   }
 
-  .li2{
+  .li4{
     color: white;
   }
   
-  input{
+  .di2 input{
     display: inline;
+    margin: 9.0px;
     padding-top: 20px;
     padding-right: 120px;
     padding-bottom: 20px;
@@ -36,26 +37,25 @@ span{
     background-color: white;
   }
 
-  .di1 button:hover {
+  .di2 p:hover button{
     background-color: #6592e6;
   }
 
-  .di1 input:hover{
+  .di2 input:hover{
     border-color: #dce9ff;
   } 
 
-  .di1 button{
+  .di2 button{
     display: inline;
     padding-top: 10px;
-    padding-right: 220px;
+    padding-right: 125px;
     padding-bottom: 10px;
     border-radius: 4px;
     border-color: #9ec0ff;
     background-color: #9ec0ff;
   }
 
-  .di1 button p{
-    padding-left: 180px;
-    font-size: 20px;
+  .di2 button p{
+    padding-left: 115px;
   }
   
